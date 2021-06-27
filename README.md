@@ -23,4 +23,4 @@ days pass.
 TEAM MEMBERS:
 >1) [Shyam S ](https://github.com/shyamsivasankar33)
 
->2) [Karthik K M ](https://github.com/KarthikKM2002)
+>2) [Karthik K M ](https://github.com/Karthik-2002-git)
