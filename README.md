@@ -21,6 +21,6 @@ booked tickets. Also it allows the admin to change the movie titles and the timi
 days pass.
 
 TEAM MEMBERS:
->1) [Shyam S ](https://github.com/shyamsivasankar33)
+>1) [Shyam](https://github.com/shyamsivasankar33)
 
->2) [Karthik K M ](https://github.com/Karthik-2002-git)
+>2) [Karthik](https://github.com/Karthik-2002-git)
