@@ -2,7 +2,6 @@
 ## C sem-1 project
                                                          MOVIE TICKET BOOKING SYSTEM
 
-Online Movie ticket booking system is based on a simple management system.
 Though watching movies is exciting waiting in a queue for a long time removes the
 excitement out of it. This program removes the tough part out of it.
  No login is required for the system, the user can use the feature freely.
