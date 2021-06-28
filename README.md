@@ -1,6 +1,8 @@
 # Package - MOVIE TICKET BOOKING SYSTEM
-## C semester-1 project
+
                                                          MOVIE TICKET BOOKING SYSTEM
+
+This project is done as a part of our 'C Programming' project in 1st semester.
 
 Though watching movies is exciting, waiting in a queue for a long time removes the
 excitement out of it. This program removes the tough part out of it.
