@@ -1,5 +1,5 @@
 # Package - MOVIE TICKET BOOKING SYSTEM
-## C sem-1 project
+## C semester-1 project
                                                          MOVIE TICKET BOOKING SYSTEM
 
 Though watching movies is exciting, waiting in a queue for a long time removes the
